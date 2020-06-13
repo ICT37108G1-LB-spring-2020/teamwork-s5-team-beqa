@@ -1,0 +1,53 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "imageUrl": "https://static.my.ge/mymarket/photos/large/0507/16100960_7.jpg?v=1",
+      "title": "nike",
+      "text": "meoradi  naikebi  iafad",
+      "price": "30 ლარი"
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://static.my.ge/mymarket/photos/large/0509/16134264_1.jpg?v=0",
+      "title": "NIKE",
+      "text": "beras  naxmarebi",
+      "price": "25 ლარი"
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71Eh-dKEBiL._AC_UX500_.jpg",
+      "title": "ABIBAS",
+      "text": " axlebi",
+      "price": "30 ლარი"
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Adidas_Logo.svg/1200px-Adidas_Logo.svg.png",
+      "title": "Adidasis  logo",
+      "text": "ise  prosta",
+      "price": "10000000 ლარი"
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61F1GH6vImL._AC_UL1000_.jpg",
+      "title": "Diadora",
+      "text": "es  ariyidot",
+      "price": "15 ლარი"
+    },
+    {
+      "title": "New shoe",
+      "price": "100 ლარი",
+      "text": "დაამატე შენი რამიდის",
+      "imageUrl": "https://www.diadora.com/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/default/dwdb212fb1/images/homepage/subHomeHeritage/blocco1.jpg",
+      "id": 4.784899336181003
+    },
+    {
+      "title": "rame",
+      "price": "28 ლარი",
+      "text": "sul ertxel mecva",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/61F1GH6vImL._AC_UL1000_.jpg",
+      "id": 75.86352330611518
+    }
+  ]
+}
