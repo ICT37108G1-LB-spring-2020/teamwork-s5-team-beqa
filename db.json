@@ -1,0 +1,39 @@
+{
+  "shoes": [
+    {
+      "model": "Nike Revolution 5",
+      "type": "Running Shoe",
+      "price": "47.96",
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e685c847-175b-4f08-9165-528bac60b3f8/revolution-5-running-shoe-b9s3hv.jpg",
+      "id": 1
+    },
+    {
+      "model": "Nike Varsity Compete TR 3",
+      "type": "Training Shoe",
+      "price": "64.95",
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i1-1ba1d48f-61ab-4c75-9d98-63fd7bf51f10/varsity-compete-tr-3-training-shoe-rpcT98.jpg",
+      "id": 2
+    },
+    {
+      "model": "Nike Free RN 5.0 By You",
+      "type": "Running Shoe",
+      "price": "104.95",
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f6654bcd-d7ff-48cb-9715-fa298797f573/nike-free-rn-5-by-you.jpg",
+      "id": 3
+    },
+    {
+      "model": "Jordan Delta",
+      "type": "Jordans",
+      "price": "114.95",
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/efabfd46-e96c-4c7f-ac1d-5e13608b2ab8/jordan-delta-shoe-lWQRGj.jpg",
+      "id": 4
+    },
+    {
+      "model": "Nike SB GTS Return",
+      "type": "Skate Shoe",
+      "price": "69.95",
+      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4103548a-d1b6-4dca-820e-ea7a0faac3be/sb-gts-return-skate-shoe-1JxFRc.jpg",
+      "id": 5
+    }
+  ]
+}
