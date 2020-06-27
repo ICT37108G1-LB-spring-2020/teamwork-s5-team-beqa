@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import AppAPI from "../AppAPI";
 import Loading from "../components/Loading";
 
-const Cars = () => {
+const shoes = () => {
   const [gela, setData] = useState([]);
   const [loading, setLoading] = useState("");
   useEffect(() => {

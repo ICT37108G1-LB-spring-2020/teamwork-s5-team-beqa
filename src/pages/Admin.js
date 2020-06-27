@@ -20,9 +20,9 @@ const Admin = () => {
   };
 
   const handleDelete = (id) => {
-    let newData = data.filter((car) => car.id !== id);
+    let newData = data.filter((shoe) => shoe.id !== id);
     setData(newData);
-    return AppAPI.delete(`shoes/${id}`);
+    return AppAPI.delete(`shoe/${id}`);
   };
   return (
     <div id="container">

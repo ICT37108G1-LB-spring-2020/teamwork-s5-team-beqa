@@ -4,7 +4,7 @@ import { useParams } from "react-router";
 import Loading from "../components/Loading";
 import shoes from "./shoes";
 
-const Car = () => {
+const shoe = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState("");
   const { id } = useParams();
