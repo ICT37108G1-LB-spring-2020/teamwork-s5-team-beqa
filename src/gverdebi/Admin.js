@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link, useHistory } from "react-router-dom";
-import AppAPI from "./../AppAPI";
-import Loading from "./../components/Loading";
+import AppAPI from "../AppAPI";
+import Loading from "../components/Loading";
 const Admin = () => {
   const history = useHistory();
   const [data, setData] = useState([]);

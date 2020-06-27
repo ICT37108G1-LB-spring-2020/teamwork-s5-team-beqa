@@ -59,4 +59,4 @@ const AdminAddNewshoe = () => {
   );
 };
 
-export default AdminAddNewshoes;
+export default AdminAddNewshoe;

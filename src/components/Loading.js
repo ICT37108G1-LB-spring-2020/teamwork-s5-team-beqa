@@ -1,4 +1,4 @@
-import React from "react";
+import React from "../gverdebi/node_modules/react";
 
 const Loading = () => (
   <div style={{ width: "100%", textAlign: "center" }}>
