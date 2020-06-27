@@ -1,39 +1,53 @@
 {
-  "shoes": [
+  "cars": [
     {
-      "model": "Nike Revolution 5",
-      "type": "Running Shoe",
-      "price": "47.96",
-      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/e685c847-175b-4f08-9165-528bac60b3f8/revolution-5-running-shoe-b9s3hv.jpg",
-      "id": 1
+      "id": 1,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/An_Adidas_shoe.jpg/1200px-An_Adidas_shoe.jpg",
+      "title": "ADIDAS",
+      "text": "NEW  SHOES",
+      "price": "300 GEL"
     },
     {
-      "model": "Nike Varsity Compete TR 3",
-      "type": "Training Shoe",
-      "price": "64.95",
-      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/i1-1ba1d48f-61ab-4c75-9d98-63fd7bf51f10/varsity-compete-tr-3-training-shoe-rpcT98.jpg",
-      "id": 2
+      "id": 2,
+      "imageUrl": "https://www.diadora.com/on/demandware.static/-/Library-Sites-SiteGenesisSharedLibrary/default/dwdb212fb1/images/homepage/subHomeHeritage/blocco1.jpg",
+      "title": "DIADORA",
+      "text": "NEW  DIADORAS",
+      "price": "250 GEL"
     },
     {
-      "model": "Nike Free RN 5.0 By You",
-      "type": "Running Shoe",
-      "price": "104.95",
-      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/f6654bcd-d7ff-48cb-9715-fa298797f573/nike-free-rn-5-by-you.jpg",
-      "id": 3
+      "id": 3,
+      "imageUrl": "https://tres-bien.com/media/catalog/product/f/o/footwear_191213_001.jpg",
+      "title": "NIKE",
+      "text": " DREAMS COME TRUE",
+      "price": "300000000 GEL"
     },
     {
-      "model": "Jordan Delta",
-      "type": "Jordans",
-      "price": "114.95",
-      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/efabfd46-e96c-4c7f-ac1d-5e13608b2ab8/jordan-delta-shoe-lWQRGj.jpg",
-      "id": 4
+      "id": 4,
+      "imageUrl": "https://www.warhistoryonline.com/wp-content/uploads/2020/03/puma.jpg",
+      "title": "PUMA",
+      "text": "CANT  TELL",
+      "price": "150 GEL"
     },
     {
-      "model": "Nike SB GTS Return",
-      "type": "Skate Shoe",
-      "price": "69.95",
-      "imgUrl": "https://static.nike.com/a/images/t_PDP_864_v1/f_auto,b_rgb:f5f5f5/4103548a-d1b6-4dca-820e-ea7a0faac3be/sb-gts-return-skate-shoe-1JxFRc.jpg",
-      "id": 5
+      "id": 5,
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Statue_of_Liberty%2C_NY.jpg",
+      "title": "NY",
+      "text": "NEW YORKERS",
+      "price": "2000  GEL"
+    },
+    {
+      "title": "New shoe",
+      "price": "random GEL",
+      "text": "Add  New Shoes",
+      "imageUrl": "https://tr2.cbsistatic.com/hub/i/r/2018/04/10/e9c6c1b4-0ccb-438d-8cd8-5d2439a68f3b/resize/1200x/a364b2539911583fa8cabe4f34b8e3bb/istock-645370598.jpg",
+      "id": 4.784899336181003
+    },
+    {
+      "title": "SNEAKER",
+      "price": "500 GEL",
+      "text": "Ar  Sheiginot",
+      "imageUrl": "https://assets.adidas.com/images/w_600,f_auto,q_auto/8b9f0b3fb4af47259912aa9b010d82db_9366/Stan_Smith_Shoes_White_M20324_M20324_07_standard.jpg",
+      "id": 75.86352330611518
     }
   ]
 }
