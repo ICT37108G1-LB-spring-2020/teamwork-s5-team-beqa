@@ -2,8 +2,7 @@ import React, { useEffect, useState } from "react";
 import AppAPI from "../AppAPI";
 import { useParams } from "react-router";
 import Loading from "../components/Loading";
-import shoes from "./shoes";
-
+import shoe from "./shoes";
 const shoe = () => {
   const [data, setData] = useState([]);
   const [loading, setLoading] = useState("");
