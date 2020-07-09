@@ -1,23 +1,27 @@
-გააკეთეთ ფეხსაცმლის გაყიდვის საიტის აპლიკაცია (single page application)
+# ShoeStore
 
-აუცილებელია იყოს შემდეგი გვერდები:
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
 
-store/shoes - უნდა გამოდიოდეს ფაეხაცმლის მოდელები სიის სახით (პატარა სურათი + მოკლე დასახელება)
+## Development server
 
-კონკრეტული მოდელის დათვალიერების გვერდი
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-/store/shoes/id
+## Code scaffolding
 
-უნდა გამოდიოდეს კონკრეტული ფეხსაცმლის მოდელის შესახებ ინფორმაცია: დიდი სურათი, და მახასიათებლები ცხრილის სახით
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-/admin/shoes - ფეხსაცმლის მოდელების სია დამატების, წაშლის და რედაქტირების ღილაკებით
+## Build
 
-/admin/shoes/id/edit - კონკრეტული ფეხსაცმლის მოდელის რედაქტირებისთვის
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-/admin/shoes/new - ახალი ფეხსაცმლის დამატების ფორმა
+## Running unit tests
 
-ყველა ajax request-ის შესრულებისას უნდა გამოჩნდეს spinner-ი
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-აუცილებელია სერვისების გამოყენება
+## Running end-to-end tests
 
-ბექენდის მაგივრად გამოიყენეთ https://github.com/typicode/json-server
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
